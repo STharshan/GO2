@@ -15,27 +15,27 @@ export default function CareTypesSection() {
 
   const careTypes = [
     {
-      title: "Older Person Care",
+      title: "NHS Care",
       description:
-        "Older person care supports seniors in maintaining their health, independence, and quality of life. It combines practical assistance with emotional support in a safe and comfortable environment.",
+        "NHS care provides professional health and social support through the National Health Service. It ensures access to medical expertise, treatments, and specialist services to promote well-being and quality of life.",
       href: "/care/residential/",
     },
     {
-      title: "Dementia Care",
+      title: "Finding Care",
       description:
-        "Dementia care focuses on individuals experiencing memory loss or cognitive decline. It provides structured routines, compassionate support, and tailored activities to enhance daily living and well-being.",
+        "Finding care helps individuals and families locate suitable care services. It offers guidance, information, and support to choose the right care based on needs, preferences, and circumstances.",
       href: "/care/dementia/",
     },
     {
-      title: "Learning Disability / Autism",
+      title: "Dementia",
       description:
-        "Care for those with learning disabilities or autism offers personalized support to develop skills, independence, and social engagement. It emphasizes understanding, patience, and tailored approaches to meet individual needs.",
+        "Dementia care focuses on supporting individuals experiencing memory loss or cognitive decline. It provides structured routines, compassionate guidance, and activities to enhance daily life and independence.",
       href: "/care/respite/",
     },
     {
-      title: "Mental Health Condition",
+      title: "Advice Center",
       description:
-        "Mental health care supports individuals facing conditions like anxiety, depression, or other disorders. It combines therapy, guidance, and practical strategies to improve well-being and daily functioning.",
+        "An advice center offers guidance on health, social care, and community support. It empowers individuals and families with information, resources, and practical solutions for informed decision-making.",
       href: "/care/nursing/",
     },
   ];
