@@ -109,10 +109,10 @@ export default function FooterSection() {
               Exceptional care in a welcoming environment
             </p>
             <div className="space-y-2 text-sm text-white/80">
-              <p>
+              {/* <p>
                 Old Vicarage Nursing Home, 13-17 Breedon St,
                 </p>
-              <p> Long Eaton, Nottingham NG10 4ES, United Kingdom</p>
+              <p> Long Eaton, Nottingham NG10 4ES, United Kingdom</p> */}
               <p className="pt-2">
                 <a
                   href={`tel:${PHONE_NUMBER}`}
