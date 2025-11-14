@@ -24,7 +24,7 @@ export default function WelcomeSection() {
               data-aos="fade-up"
               data-aos-delay="150"
             >
-            At The Old Vicarage, we provide exceptional care in a warm, welcoming environment where every resident is valued and respected. Our dedicated team of professionals specializes in supporting older adults, individuals living with dementia, those with learning disabilities or autism,
+            At GO2 HC Ltd, we provide exceptional care in a warm, welcoming environment where every resident is valued and respected. Our dedicated team of professionals specializes in supporting older adults, individuals living with dementia, those with learning disabilities or autism,
             </p>
 
             <p
@@ -32,7 +32,7 @@ export default function WelcomeSection() {
               data-aos="fade-up"
               data-aos-delay="300"
             >
-Our purpose-built facilities combine modern convenience with a homely charm, offering beautifully designed living spaces, serene gardens, and engaging activities tailored to each resident’s needs. At The Old Vicarage, we go beyond care—we foster connection, promote independence, and celebrate life’s moments together.
+Our purpose-built facilities combine modern convenience with a homely charm, offering beautifully designed living spaces, serene gardens, and engaging activities tailored to each resident’s needs. At GO2 HC Ltd, we go beyond care—we foster connection, promote independence, and celebrate life’s moments together.
             </p>
 
             <div
