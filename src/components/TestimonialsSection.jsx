@@ -57,7 +57,7 @@ export default function Review() {
     },
     {
       text:
-        "My mother was in The Old Vicarage Care Home for over 9 years and from day one we were very pleased with the care and love she received. The staff were kind at all times and spent as much time as they could talking to her especially when she was eventually confined to her room.",
+        "My mother was in GO2 HC Ltd Care Home for over 9 years and from day one we were very pleased with the care and love she received. The staff were kind at all times and spent as much time as they could talking to her especially when she was eventually confined to her room.",
       name: "Leah H",
       initials: "Daughter",
     }
